@@ -31,3 +31,6 @@ node-app/
 
 ### 🔓 EC2 Security Group Settings
 ![Security Group Settings](./3.jpg)
+
+### 🔓 Docker Node Output On Browser 
+![Output on Browser](./4.jpg)
